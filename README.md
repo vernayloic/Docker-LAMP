@@ -16,5 +16,6 @@ Le fichier ".env"
 
 Avec un accès SSH (ou autre) accèder au repertoire du projet puis lancer :
 
-docker-compose up 
+
+    docker-compose up 
 
