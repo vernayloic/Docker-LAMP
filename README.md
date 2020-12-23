@@ -1,4 +1,4 @@
-Créer un dossier au nom du projet qui contient l'enssemble du pack soit :
+Créer un dossier au nom du projet qui contient l'ensemble du pack soit :
 
     - Docker-compose.yml
     - .env
