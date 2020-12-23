@@ -16,6 +16,12 @@ Le fichier ".env"
 
 Avec un accès SSH (ou autre) accèder au repertoire du projet puis lancer :
 
-
     docker-compose up 
 
+L'éxécution de la commande vas lancer la création de trois Dockers :
+
+    X_php_1
+    X_db_1
+    X_phpmyadmin_1
+    
+X représente le nom du dossier parent du docker-compose.yml
